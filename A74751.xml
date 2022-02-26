@@ -1,0 +1,387 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Queries of highest consideration, proposed to the five Holland ministers and the Scotch Commissioners (so called) upon occasion of their late printed apologies for themselves and their churches. In all humble reverence presented to the view of the Right Honourable the Houses of the High Court of Parliament.</title>
+            <author>Williams, Roger, 1604?-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74751</idno>
+            <idno type="STC">Thomason E32_8</idno>
+            <idno type="STC">ESTC R212639</idno>
+            <idno type="EEBO-CITATION">99871237</idno>
+            <idno type="PROQUEST">99871237</idno>
+            <idno type="VID">154564</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154564)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E32[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Queries of highest consideration, proposed to the five Holland ministers and the Scotch Commissioners (so called) upon occasion of their late printed apologies for themselves and their churches. In all humble reverence presented to the view of the Right Honourable the Houses of the High Court of Parliament.</title>
+                  <author>Williams, Roger, 1604?-1683.</author>
+               </titleStmt>
+               <extent>[8], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Imprinted in the yeare MDCXLIV. [1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With two title pages. The second title page reads: "Queries of highest consideration, proposed to Mr. Tho. Goodwin Mr. Phillip Nye Mr. Wil. Bridges Mr. Jer. Burroughs Mr. Sidr. Simpson.". The second title page appears to match Wing (2nd ed.) W2770. Perhaps this item is another edition of Wing W2770 with an added title page.</note>
+                  <note>Annotation on Thomason copy: the "IV" in the imprint date has been crossed out; "1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goodwin, Thomas, 1600-1680 --  Early works to 1800.</term>
+               <term>Church of Scotland. --  General Assembly. --  Commission --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154564:1" rendition="simple:additions"/>
+            <p>QVERIES OF HIGHEST CONSIDERATION, Propoſed to the five HOLLAND Miniſters AND THE Scotch Commiſſioners (SO CALLED.) Vpon occaſion of their late Printed Apologies for themſelves and their <hi>Churches.</hi> In all Humble Reverence preſented to the view of the Right Honourable the Houſes of the High Court of Parlament.</p>
+            <p>
+               <hi>LONDON,</hi> Imprinted in the yeare MDCX.IV.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:154564:2"/>
+            <pb facs="tcp:154564:2" rendition="simple:additions"/>
+            <p>QVERIES OF HIGHEST CONSIDERATION, Propoſed to
+<list>
+                  <item>M<hi rend="sup">r.</hi> 
+                     <hi>Tho. Goodwin</hi>
+                  </item>
+                  <item>M<hi rend="sup">r.</hi> 
+                     <hi>Phillip Nye</hi>
+                  </item>
+                  <item>M<hi rend="sup">r.</hi> 
+                     <hi>Wil. Bridges</hi>
+                  </item>
+                  <item>M<hi rend="sup">r.</hi> 
+                     <hi>Jer. Burroughs</hi>
+                  </item>
+                  <item>M<hi rend="sup">r.</hi> 
+                     <hi>Sidr. Simpſon.</hi>
+                  </item>
+               </list> AND To the Commiſsioners from the Generall Aſſembly (ſo called) of the Church Of SCOTLAND; Vpon occaſion of their late Printed Apologies for themſelves and their <hi>Churches.</hi> In all Humble Reverence preſented to the view of the Right Honourable the Houſes of the High Court of Parlament.</p>
+            <p>
+               <hi>LONDON,</hi> Imprinted in the yeare MDCXLIV.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154564:3"/>
+            <pb facs="tcp:154564:3"/>
+            <head>TO THE <hi>Right Honourable</hi> Both Houſes of the High Court Of <hi>PARLIAMENT.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is a wofull <hi>Priviledge</hi> attending all great <hi>States</hi> and <hi>Perſonages,</hi> that they ſeldome heare any other <hi>Muſick</hi> but what is known will <hi>pleaſe</hi> them.</p>
+            <p>Though our <hi>Muſick</hi> ſound not <hi>ſweet</hi> but <hi>harſh,</hi> yet pleaſe you firſt to know, it is not fitted to your <hi>Eares,</hi> but to your <hi>Hearts,</hi> and the blee<g ref="char:EOLhyphen"/>ding <hi>Heart</hi> of this aflicted <hi>Nation.</hi>
+            </p>
+            <p>'Tis true, we have been humbly bold to preſume as <hi>Eſter</hi> into <hi>Ahaſuerus</hi> his preſence, againſt your Order: For who can paſſe the many Locks and Bars of any the ſeverall <hi>Licencers,</hi> appointed by you with ſuch a Meſſage? By ſuch Circumſcribing and immuring of your ſelves by ſuch a <hi>Guard</hi> (their Perſons we honour and eſteem) it is
+<pb facs="tcp:154564:4"/>rarely poſſible that any other <hi>Light,</hi> but what their He<g ref="char:EOLhyphen"/>miſpheare affoords, ſhall ever ſhine on your <hi>Honours</hi> Souls, though ne're ſo <hi>ſweet,</hi> ſo <hi>neceſſary,</hi> and though it come from <hi>God,</hi> from <hi>Heaven.</hi>
+            </p>
+            <p>Theſe Worthy and much eſteemed Perſons unto whom we Quaery, we have heard to be Men of <hi>Conſcience,</hi> of <hi>Abilities,</hi> and are in this worthy of double <hi>Honour,</hi> that (according to their <hi>Conſciences)</hi> they appear in the <hi>Front,</hi> and preſent their <hi>Moulds</hi> and <hi>Patterns</hi> of <hi>Church Go<g ref="char:EOLhyphen"/>vernment,</hi> from <hi>Holland,</hi> from <hi>Scotland,</hi> to our inqui<g ref="char:EOLhyphen"/>ring <hi>England.</hi>
+            </p>
+            <p>Their mutuall juſt <hi>Exceptions</hi> which they have alrea<g ref="char:EOLhyphen"/>dy, or may further expreſſe againſt each others <hi>Tenents</hi> we leave to themſelves, (though we might expreſſe them to our advantage.) We ſhall be humbly bold in the name of the Lord Jeſus; and the many thouſand precious ſouls, for whom he hath paid ſo deare a Ranſome; to preſent ſuch <hi>Quaeries</hi> to your <hi>Honours</hi> view, as reſpect their joint Agreement (Pardon the I hraſe) like <hi>Ephraim</hi> and <hi>Ma<g ref="char:EOLhyphen"/>naſſeh</hi> (though fighting each againſt other, yet) both againſt Chriſt Jeſus the Lion of Iudahs Tribe; we mean ſo farre as they appoſe the Truth and Purity of his laſt will and Testament.</p>
+            <p>Moſt Renowned Patriots, You ſit at <hi>Helme</hi> in as great a <hi>Storm,</hi> as ere poor <hi>Englands Common-wealth</hi> was ioſt in: Yet be you pleaſed to remember, that (excep<g ref="char:EOLhyphen"/>ting the affaires of <hi>Heaven,</hi> of <hi>Religion,</hi> of <hi>Soules,</hi> of <hi>Eternity)</hi> all your <hi>Conſultations, Concluſions, Exe<g ref="char:EOLhyphen"/>cutions,</hi> are not of the <hi>Quantity,</hi> of the <hi>value</hi> of one poor <hi>drop</hi> of <hi>water,</hi> or the little <hi>duſt</hi> of the <hi>Ballance,</hi> of <hi>Elaiah</hi> were a true Prophet, <hi>Eſa. 40.15.</hi>
+            </p>
+            <p>Yet concerning <hi>Soules,</hi> wee will not (as moſt doe)
+<pb facs="tcp:154564:4"/>charge you with the loads of all the <hi>Soules</hi> in <hi>England, Scotland, Ireland:</hi> Wee ſhall humbly affirme, and (by the help of Chriſt) maintaine, that the <hi>Bodies</hi> and <hi>Goods</hi> of the Subject is your charge: Their <hi>Soules</hi> and yours are ſet on account to thoſe that profeſſe to be the <hi>Lights</hi> and <hi>Guides,</hi> the <hi>Meſſengers</hi> and <hi>Embaſſadors</hi> ſent from <hi>Heaven</hi> to them.</p>
+            <p>You will pleaſe to ſay, We are conſtantly told, and we be<g ref="char:EOLhyphen"/>lieve it, that <hi>Religion</hi> is our firſt <hi>Care,</hi> and <hi>Reformati<g ref="char:EOLhyphen"/>on</hi> of that our greateſt <hi>Taske.</hi>
+            </p>
+            <p>Right Honourable, your <hi>Wiſdomes</hi> know the <hi>Fatall Miſcariages</hi> of <hi>Englands Parliaments</hi> in this point; what <hi>ſetting</hi> up, <hi>pulling</hi> downe, what <hi>Formings, Refor<g ref="char:EOLhyphen"/>mings,</hi> and againe <hi>Deformings,</hi> to <hi>admiration.</hi>
+            </p>
+            <p>Three Inſtances are dreadfull, yet to expreſse Seaſo<g ref="char:EOLhyphen"/>nable.</p>
+            <p>Firſt, The laſt and beſt of <hi>Englands changes,</hi> eſtabli<g ref="char:EOLhyphen"/>ſhed <hi>Lord Biſhops:</hi> they and two more <hi>(Prieſts</hi> and <hi>Dea<g ref="char:EOLhyphen"/>cons)</hi> are by Law the eſtabliſhed <hi>Miniſters</hi> of <hi>Englands Church:</hi> The former makes the latter, ſo far as concerns a lawfull <hi>externall</hi> Calling. The <hi>Lord Biſhops</hi> themſelvs, are now <g ref="char:V">Ʋ</g>oted <hi>Antichriſtian;</hi> Your Wiſdomes then ſee what Callings by Law, the other two ſorts, <hi>Prieſts</hi> and <hi>Deacons</hi> have all this while bin furniſhed with.</p>
+            <p>Secondly, if hee that eates and drinkes the <hi>Body</hi> and <hi>blood</hi> of <hi>Chriſt</hi> unworthily, eateth and drinketh his owne <hi>judgement,</hi> and all <hi>Engliſh</hi> ſoules are bound by <hi>Law</hi> to cate that <hi>Body</hi> and <hi>Blood</hi> at ſixteene, who ſees not, ſince (as tis confeſt ſcarce one of a thouſand, but is found <hi>igno<g ref="char:EOLhyphen"/>rant, Impenitent, Unregenerate</hi> at thoſe yeeres) that the <hi>Body</hi> of the People are compelled by <hi>Law,</hi> to eat and drink at ſixteen their own <hi>judgment.</hi>
+            </p>
+            <pb facs="tcp:154564:5"/>
+            <p>Thirdly, for <hi>Non-conforming</hi> to theſe and other practi<g ref="char:EOLhyphen"/>ſes, the <hi>Engliſh Maſſe-Booke,</hi> &amp;c. what heavy <hi>Perſecu<g ref="char:EOLhyphen"/>tion</hi> have <hi>thouſands</hi> felt, and that by <hi>Law</hi> eſtabliſhed?</p>
+            <p>We ſhall in all <hi>humble Reverence,</hi> ſuggest our <hi>Feares,</hi> that for the very <hi>Laws</hi> and <hi>Statutes</hi> of <hi>Englands Parli<g ref="char:EOLhyphen"/>aments</hi> concerning <hi>Religion,</hi> and happily for ſome not yet ſuſpected, the <hi>Lord Ieſus</hi> hath drawne this <hi>Sword,</hi> that's daily drunke with <hi>Engliſh Blood.</hi>
+            </p>
+            <p>It ſhall never be your Honour to this or future Ages, to be confined to the <hi>Patterns</hi> of either <hi>French, Dutch, Scotch,</hi> or <hi>New-Engliſh Churches</hi> We humbly conceive ſome higher <hi>Act</hi> concerning <hi>Religion,</hi> attends and be<g ref="char:EOLhyphen"/>comes your <hi>Conſultations:</hi> If he whoſe name is, <hi>wonder<g ref="char:EOLhyphen"/>full, Counſellor,</hi> be conſulted and obeyed according to his last Will and Teſtament (as you may pleaſe in the <hi>Quaeries</hi> to view) wee are confident you ſhall <hi>exceed</hi> the <hi>Acts</hi> and <hi>Patternes</hi> of all <hi>Neighbour Nations;</hi> bighly exalt the name of the <hi>Son</hi> of <hi>God;</hi> provide for the <hi>Peace</hi> of this diſtreſſed State, engage the <hi>Soules</hi> of all that feare <hi>God,</hi> to give <hi>Thankes</hi> and <hi>Supplicate</hi> for you; further the <hi>Salvation</hi> of thouſands, and leave the ſweet perfume of your Names, precious to all ſucceeding <hi>Generations.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154564:5"/>
+            <head>QUERIES PROPOUNDED To the five <hi>Holland</hi> Miniſters, and the <hi>Scotch Commiſsioners.</hi>
+            </head>
+            <opener>
+               <salute>WORTHY SIRS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N ſerious Examination of your late <hi>Apo<g ref="char:EOLhyphen"/>logies,</hi> we ſhall in all due reſpect and ten<g ref="char:EOLhyphen"/>derneſſe humbly Querie:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Querie </seg>I</label> Firſt, What Precept or Pattern hath the Lord Jeſus left you in his laſt Will and Teſtament for your <hi>Synod,</hi>
+               <note place="margin">What warrant from the Lord Ieſus for the Aſſembly of Divines?</note> or Aſſem<g ref="char:EOLhyphen"/>bly of <hi>Divines,</hi> by vertue of which you may expect his <hi>preſence</hi> and <hi>aſſiſtance?</hi>
+            </p>
+            <p>If you ſay (as all Popiſh <hi>Synods</hi> and Councels doe) the Pattern is plain, <hi>Acts</hi> 15.
+<note place="margin">Acts 15. <hi>exa<g ref="char:EOLhyphen"/>mined.</hi>
+               </note> We aske if two or three Brethren of one particular Congregation at <hi>Antioch,</hi> ſent to that firſt Mother Church at <hi>Jeruſalem,</hi> where the Apoſtles were, who being (immediatly) inſpir'd from God, could ſay, <hi>It ſeemeth good to the</hi> holy Spirit <hi>and Vs, to lay upon you no greater bur<g ref="char:EOLhyphen"/>then,</hi> &amp;c. as alſo who had power to make Decrees for all the Churches, <hi>Acts</hi> 16. We aske whether this be a Pattern,
+<note place="margin">A Nationall Aſſembly ne<g ref="char:EOLhyphen"/>ceſſarily infor<g ref="char:EOLhyphen"/>ceth an Aſſem<g ref="char:EOLhyphen"/>bly of the whole world.</note> for a Nation or Kingdome (and ſo conſequently for more Nati<g ref="char:EOLhyphen"/>ons and all the World if under one Government, as in <hi>Au<g ref="char:EOLhyphen"/>guſtus Caeſars</hi> tax) to ſend their ſeverall Prieſts and Deacons (for other ſpirituall Officers then Biſhops, Prieſts and Dea<g ref="char:EOLhyphen"/>cons you know we have not) to reforme or forme a Reli<g ref="char:EOLhyphen"/>gion, <hi>&amp;c?</hi>
+            </p>
+            <p>We pray you to conſider,
+<note place="margin">Dan. 3. Daniels <hi>I<g ref="char:EOLhyphen"/>mage, a type of State Religi<g ref="char:EOLhyphen"/>ons.</hi>
+               </note> if the golden Image be not a type and figure of the ſeverall Nationall and State Religions, which all Nations ſet up and Ours hath done, for which the wrath of God is now upon Us?</p>
+            <pb n="2" facs="tcp:154564:6"/>
+            <p>We pray you alſo to anſwer in what part of Chriſts Te<g ref="char:EOLhyphen"/>ſtament is found that title,
+<note place="margin">The Title, the Aſſembly of Divines exa<g ref="char:EOLhyphen"/>mined.</note> 
+               <hi>The Aſſembly of Divines;</hi> and whether it be not in Engliſh, <hi>The Church of Godly ones?</hi> And as we Queried your ground for ſuch a Church, ſo have we alſo cauſe to pray you to tell us, Where Chriſt Jeſus hath given you power to aſſume and appropriate ſuch a Title to your ſelves, which ſeems in Scripture to be common to all the Children of God?</p>
+            <p>Some expreſſe it in Print and pulpit,
+<note place="margin">That title, the Aſſembly of godly Divines examined.</note> the Aſſembly of god<g ref="char:EOLhyphen"/>ly Divines; we derogate not from the worth or godlineſſe of any of them: yet you know the Aſſembly of Saints, or godly Divines, is no other in Engliſh then the Aſſembly or Church of Saints, or <hi>godly godly ones. All that will live godly in Chriſt Ieſus muſt ſuffer perſecution:</hi> We preſume you will grant o<g ref="char:EOLhyphen"/>thers to be Saints and godly too in that ſence: but Oh that that whole Aſſembly or Congregation were truly reſolved, (by way of Eminencie) to lead all the godly in the Land in ſuch a Chriſtian practice.</p>
+            <div n="2" type="query">
+               <head>QUERIE II.</head>
+               <p>Whereas you both agree (though with ſome difference) that the Civill Magiſtrate muſt Reform the Church, eſta<g ref="char:EOLhyphen"/>bliſh Religion, and ſo conſequently muſt firſt Judge, and Judicially Determine which is True, which is Falſe: or elſe muſt implicitly beleeve as the Aſſembly beleeves, and take it upon truſt, and ſo conſequently is he the Head, Root and Fountain of the Supremacie of all Spirituall power, and hath the power of the Keyes of <hi>opening</hi> and <hi>ſhutting heaven gates, &amp;c.</hi> Of which power upon a grudge (as 'tis ſaid) about his Wife, King <hi>Henry deſpoild the Pope,</hi>
+                  <note place="margin">
+                     <hi>King</hi> Henry <hi>the</hi> 8. <hi>ſet down in the Popes chaire.</hi>
+                  </note> and with conſent and Act of Parlament, ſate down himſelfe in the Popes Chaire in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> as ſince his Succeſſors have done?</p>
+               <p>We now Querie, ſince the Parlament (being the repreſen<g ref="char:EOLhyphen"/>tative Common-wealth) hath no other power but what the Common-weale derive unto,
+<note place="margin">The Common<g ref="char:EOLhyphen"/>weale, yea the world the head of the Church.</note> and betruſt it with; whether it will not evidently follow, that the Common-weale, the Na<g ref="char:EOLhyphen"/>tion the Kingdome, and (if it were in <hi>Auguſtus</hi> his time) the whole world muſt rule and govern the Church, and Chriſt himſelfe as the Church is called, 1 <hi>Cor.</hi> 12.12?</p>
+               <p>Furthermore, if the Honourable Houſes (the repreſenta<g ref="char:EOLhyphen"/>tive
+<pb n="3" facs="tcp:154564:6"/>Common-weale) ſhall erect a Spirituall Court, for the Iudging of Spirituall Men and Spirituall Cauſes (although a new Name be put upon it,
+<note place="margin">A new High-Commisſion.</note> yet) whether or no ſuch a Court is not in the true nature and kind of it, an High Commiſ<g ref="char:EOLhyphen"/>ſion? And is not this a reviving of <hi>Moſes,</hi> and the ſanctifying of a new Land of <hi>Canaan,</hi> of which we heare nothing in the Teſtament of Chriſt Jeſus, nor of any other holy Nation, but the particular Church of Chriſt? 1 <hi>Pet.</hi> 2.9.</p>
+               <p>Is not this to ſubject this <hi>holy Nation,</hi> this heavenly Jeru<g ref="char:EOLhyphen"/>ſalem, the Wife and Spouſe of Jeſus, <hi>the pillar and ground of Truth,</hi> to the vain, uncertain and changeable Mutations of this preſent evill world?</p>
+               <p>Who knowes not in how few yeares the Common-weale of <hi>England</hi> hath ſet up and pull'd down?
+<note place="margin">
+                     <hi>The Parla<g ref="char:EOLhyphen"/>ments of</hi> Eng<g ref="char:EOLunhyphen"/>lands <hi>won<g ref="char:EOLhyphen"/>derfull changes in Religion.</hi>
+                  </note> The Fathers made the Children Hereticks, and the Children the Fathers. How doth the Parlament in <hi>Henry</hi> the 8. his dayes condemn the abſolute Popery in <hi>Henry</hi> the ſeventh? How is in <hi>Edwards</hi> the 6. his time the Parlament of <hi>Henry</hi> the 8. condemned for their halfe Popery, halfe Proteſtaniſme? How ſoon doth Queen <hi>Maries</hi> Parlament condemn <hi>Edward</hi> for his abſolute Proteſtaniſme?
+<note place="margin">The preſent Parlament would have been eſteemed Hereticall in former times.</note> And <hi>Elizabeths</hi> Parlament as ſoon condemn Queen <hi>Maries</hi> for their abſolute Popery? 'Tis true, Queen <hi>Elizabeth</hi> made Lawes againſt Popery and Papiſts, but the Government of Biſhops, the Common Prayer, the Ceremo<g ref="char:EOLhyphen"/>nies were then ſo high in that Queen and Parlaments eye, that the Members of this preſent and ever renowned Parla<g ref="char:EOLhyphen"/>ment, would have then been counted little leſſe then Here<g ref="char:EOLhyphen"/>ticks. And oh! ſince the Common-weale cannot without a ſpirituall rape force the conſciences of all to one Worſhip, oh that it may never commit that rape, in forcing the con<g ref="char:EOLhyphen"/>ſciences of all men to one Worſhip, which a ſtronger arme and Sword may ſoon (as formerly) ariſe to alter.</p>
+            </div>
+            <div n="3" type="query">
+               <head>QUERIE III.</head>
+               <p>Whether ſince you profeſſe to be Builders,
+<note place="margin">The only true Matter for a true Church are living Stones.</note> you have not cauſe to feare and tremble, leaſt you be found to reject the <hi>Corner ſtone,</hi> in not fitting to him only <hi>living ſtones?</hi> 1 <hi>Pet.</hi> 2. Of theſe <hi>living ſtones,</hi> (true Beleevers) the coſtly Stones of the Temple were types: and without true matter, which (as it is
+<pb n="4" facs="tcp:154564:7"/>in all works in the World) it is impoſſible to build a ſpiritu<g ref="char:EOLhyphen"/>all Houſe unto God?</p>
+               <p>This matter, the One of you confeſſe and practice, the Other queſtions and mingles Sheep and Goats together, con<g ref="char:EOLhyphen"/>trary to the ſpirituall nature of the Lord Jeſus, and his true Pattern; contrary to the nature of God, who is a Spirit, and will be Worſhipped by Spirituall Worſhippers; contrary to the peace and ſafety of any naturall Soule and conſcience, hardned in a dream of Fellowſhip with God, who ſaith to the ungodly, <hi>What haſt thou to doe to take my Covenant into thy mouth, and hateſt to be reformed?</hi> Pſal. 50.</p>
+            </div>
+            <div n="4" type="query">
+               <head>QUERIE IV.</head>
+               <p>Whether in your conſciences before God, you be not per<g ref="char:EOLhyphen"/>ſwaded (notwithſtanding your promiſcuous joyning with all) that few of the People of <hi>England</hi> and <hi>Scotland,</hi>
+                  <note place="margin">
+                     <hi>Few of the people of</hi> Eng<g ref="char:EOLhyphen"/>land <hi>or</hi> Scot<g ref="char:EOLhyphen"/>land, <hi>living Stones.</hi>
+                  </note> and fewer of the Nobles and Gentry are ſuch <hi>ſpirituall matter, living ſtones,</hi> truly <hi>regenerate</hi> and <hi>converted;</hi> and therfore, Whether it be not the greateſt Courteſie in the world, which you may poſſibly perform unto them, to acquaint them impartially with their conditions; and how impoſſible it is for a dead Stone to have Fellowſhip with the <hi>living God,</hi> and for any man to enter into the Kingdome of God, without a ſecond Birth? <hi>John</hi> 3.</p>
+            </div>
+            <div n="5" type="query">
+               <head>QUERIE V.</head>
+               <p>Although the fame and ſound is great of Reformation, we Querie,
+<note place="margin">Impoſſible to reforme the dead in ſin, the ſpiritually liv<g ref="char:EOLhyphen"/>ing, are only capable of re<g ref="char:EOLhyphen"/>formation ac<g ref="char:EOLhyphen"/>cording to Chriſt.</note> Whether a dead ſoule is capable of any Reforma<g ref="char:EOLhyphen"/>tion, untill the firſt principle of Chriſtianity, Repentance (<hi>Heb.</hi> 6.6.) be found in him: otherwiſe, as a thouſand ſeve<g ref="char:EOLhyphen"/>rall renewed Forms of Apparell, alters not the condition of a dead man: or a thouſand new Formes of Poſtures of an Armie of Cavaliers cannot make a Parlament Army: So we Querie how poſſible that a perſon or perſons, viſibly in a ſtate of <hi>nature, dead</hi> in ſinne, in a ſtate of <hi>enmitie</hi> and <hi>oppoſition</hi> a<g ref="char:EOLhyphen"/>gainſt God (<hi>Epheſ.</hi>
+                  <note place="margin">Definitions of ought muſt not be from the corruption, but Inſtitution of it, according to which miſt be the reformati<g ref="char:EOLhyphen"/>on.</note> 2. <hi>Rom.</hi> 8.) can ever pleaſe God, be viſibly maried to God, fight for him under the Banners of Love? <hi>&amp;c.</hi> Allegations may be brought from the <hi>corruptions</hi> of the Church of the Jewes, and the Churches of Chriſt: but We doe not uſe to define a Man by his Diſeaſes, nor a Garden by Weeds, nor a Citie by a Tumult, or an Army by a Rout or
+<pb n="5" facs="tcp:154564:7"/>diſorder, eſpecially when we treat upon an Inſtitution or Re<g ref="char:EOLhyphen"/>ſturation.</p>
+            </div>
+            <div n="6" type="query">
+               <head>QUERIE VI.</head>
+               <p>Although you both profeſſe your Holyneſſe, Diligence, Zeale, Courage, Selfe-denyall, Patience, and the one of you the incomparable ſpirit of your Fathers in the worke of Re<g ref="char:EOLhyphen"/>formation; yet we Querie,
+<note place="margin">Excellent Wit<g ref="char:EOLhyphen"/>neſſes of Chriſt Ieſus, who ne<g ref="char:EOLhyphen"/>ver proceeded to a Church<g ref="char:EOLhyphen"/>eſtate</note> Whether there hath not been as Holy, Able, and Zealous Men ſince the Apoſtacie; Men like <hi>Antipas,</hi> Rev. 2. <hi>faithfull Witneſſes</hi> of the Lord Jeſus (in what Light they ſaw) even to Death, who yet never came up to ſuch a worke of Reformation as you ſpeak of: Yea (without offence be it ſpoken) have there not been as excellent and heavenly Reformers as your ſelves and Fathers, whoſe pro<g ref="char:EOLhyphen"/>feſſed Reformation you now diſlike? Who ſhall outſhine many of the Waldenſian Reformers for Holyneſſe, Zeale,
+<note place="margin">
+                     <p>
+                        <hi>Excellent re<g ref="char:EOLhyphen"/>formers, whoſe worke now ſeems to be be<g ref="char:EOLhyphen"/>ſide the firſt Pattern, and this Age diſ<g ref="char:EOLhyphen"/>likes, forſakes,</hi> &amp;c.</p>
+                     <p>
+                        <hi>One of the greateſt Par<g ref="char:EOLhyphen"/>laments that ever was, after all rejoycing and triumph<g ref="char:EOLhyphen"/>ing in it found Gods anger for their errors, in reformation of his worſhip.</hi>
+                     </p>
+                  </note> patience? Where is, or hath that pretious man been found, who hath (for perſonall excellencies) outſhined <hi>Luther?</hi> and who ſhall o'retop thoſe glorious Cedars <hi>Biſhops, Doctors,</hi> &amp;c. burnt for Chriſt Jeſus in Queen <hi>Maries</hi> dayes?</p>
+               <p>Yea, where the Church we grant to have been true (accor<g ref="char:EOLhyphen"/>ding to its Inſtiſtution, for the time of it) What Aſſembly, what Parlament can compare with that of <hi>David</hi> and his Captains of thouſands, Captains of hundreths, and every Lea<g ref="char:EOLhyphen"/>der, and all the Congregation of <hi>Iſrael</hi> from <hi>Shiſhor</hi> of <hi>Egypt,</hi> to the entring in of <hi>Hemath</hi> aſſembled together to reform the Worſhip of God, in that true, but Nationall. Typical, Church eſtate of <hi>Iſrael?</hi> What rejoycing, what playing was there of <hi>David</hi> and all <hi>Iſrael</hi> with Harps, Pſalteries, Timbrells, Cym<g ref="char:EOLhyphen"/>balls and Trumpets, and yet how angry was God, what a Breach did he make? for <hi>David</hi> and all <hi>Iſrael</hi> tranſgreſt the due appointed Order, 1 <hi>Cron.</hi> 13. 1 <hi>Cron.</hi> 15.</p>
+            </div>
+            <div n="7" type="query">
+               <head>QUERIE VII.</head>
+               <p>Since the Law was given by <hi>Moſes,</hi>
+                  <note place="margin">
+                     <hi>A Nationall</hi> Covenant, <hi>and a Natio<g ref="char:EOLhyphen"/>nall</hi> Church, <hi>not found in the Doct ine of the Son of God</hi>
+                  </note> but Grace and Truth came by Jeſus Chriſt, by whom (though God ſpake divers times and divers wayes to the Fathers) he hath now revealed his councell in theſe laſt times, Heb. 1. We Quere, where you now find one footſtep, Print or Pattern in this Doctrine of the Son of God, for a Nationall holy Covenant, and ſo con<g ref="char:EOLhyphen"/>ſequenty (though we conceive the one of you ſtumble at it)
+<pb n="6" facs="tcp:154564:8"/>a Nationall Church? Where find you evidence of a whole Nation, Country or Kingdom converted to the Faith and of Chriſts appointing of a whole Nation or Kingdome to walk in one way of Religion?</p>
+               <p>If you repaire to <hi>Moſes,</hi>
+                  <note place="margin">
+                     <hi>Such as hold a Nationall Church of God muſt needs diſclaim Chriſt and follow</hi> Moſes.</note> conſult with <hi>Moſes</hi> and the old Covenant or Teſtament, we aske, are you <hi>Moſes</hi> or <hi>Chriſts</hi> Followers? or do you yet expect the comming of the Son of God to ſet up the Chriſtian <hi>Iſrael,</hi> the holy Nation, the par<g ref="char:EOLhyphen"/>ticular Congregation of Chriſtian Worſhippers, in all parts of the world? 1 <hi>Pet.</hi> 2. Heb. 12. <hi>&amp;c.</hi>
+               </p>
+               <p>We further Quere, Whether a Nationall Covenant, lead not (in caſe,
+<note place="margin">
+                     <hi>If one whole Nation, where ſhould we ſtop, why may not many and the whole world?</hi> &amp;c.</note> and as is practiſed) unavoydably to a holy Cove<g ref="char:EOLhyphen"/>nant of many Nations? 2 <hi>Pet.</hi> 10.20. yea, to a holy league or Covenant (in caſe of <hi>Auguſtus</hi> his Government) of the whole world, which ſhould then turne the Darling and Spouſe of God, between whom and it there is ſuch enmitie, that <hi>if any man love the world, the love of the Father is not in him?</hi> 1 John 2.</p>
+               <p>The Doctrine of Chriſt Jeſus tells us that, <hi>Acts</hi> 10.35. <hi>That in every Nation he that feares God,
+<note place="margin">The nature of the true Church or Congregation of Chriſt Ieſus</note> &amp;c.</hi> Not every Nation that feares God. Chriſt Jeſus tells us that his Church may come together to break bread in One place, 1 <hi>Cor.</hi> 11. which Na<g ref="char:EOLhyphen"/>tions and Countries cannot poſſibly doe: Chriſt Jeſus tells us this his Congregation is now the Common-weale of <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> inveſted with the true Kingly power of the Lord Jeſus, to put forth every wicked perſon (though King or Keyſar) from amongſt them.</p>
+               <p>We Querie,
+<note place="margin">
+                     <hi>There cannot be</hi> 2 <hi>true kinds of Churches, no more then</hi> 2 <hi>true Parlia<g ref="char:EOLhyphen"/>ments.</hi>
+                  </note> Whether it be poſſible there ſhould be 2 true ſorts or kinds of Churches, any more then 'tis poſſible there may be 2 true Parlaments in <hi>England,</hi> though many ſcores or hundreths ſhould be called?</p>
+               <p>There are indeed 3 ſcore Queens, and 4 ſcore Concubines and Virgins without number, which ſeem to imply (and that even in theſe times, as ſome alſo have interpreted) ſeverall kinds of Congregations or Churches,
+<note place="margin">Severall ſorts of Churches like Brazen, Silver, and Golden Can<g ref="char:EOLhyphen"/>dleſticks.</note> and yet Chriſts Dove is but <hi>one, and the only one of her motherr, Cant.</hi> 6. The Light of much Truth may ſhine forth on the <hi>brazen Candleſticks</hi> of ſtrong Nationall Churches, maintained and held up by the ſeeming ſtrong Sword of Steel in an Arme of Fleſh <hi>&amp;c.</hi> There may be <hi>ſilver Candleſticks</hi> more refin'd and pure in reſpect of the
+<pb n="7" facs="tcp:154564:8"/>Matter of which they are conſtituted, <hi>viz.</hi> godly perſons, <hi>&amp;c.</hi> But Chriſt Jeſus only walks in the midd'ſt of his <hi>Golden Can<g ref="char:EOLhyphen"/>dleſticks,</hi> Gathered and Governed after the Golden Inſtituti<g ref="char:EOLhyphen"/>on of Chriſts Word, which is like fine Gold, <hi>Rev.</hi> 1. <hi>Pſa.</hi> 19.</p>
+               <p>Againe, we aske,
+<note place="margin">A National Religion muſt rack Soules and Bodies,</note> Whether in the Conſtitution of a Nati<g ref="char:EOLhyphen"/>nall Church, it can posſibly be framed without a racking and tormenting of thè Soules, as well as of the Bodies of perſons, for it ſeems not posſible to fit it to every conſcience: ſooner ſhall one ſuit of Apparell fit every Body, one Law preſident every Caſe, or one Size or Laſt every Foot?</p>
+               <p>Laſtly,
+<note place="margin">The dangerous conſequences of it.</note> Whether it be not the cauſe of a world of Hypo<g ref="char:EOLhyphen"/>critets, he Soothing up of people in a Formall State Worſhip to the ruine of their Soules; the ground of Perſecution to Chriſt Jeſus in his Members, and ſooner or later, the kind<g ref="char:EOLhyphen"/>ling of the devouring flames of Civill Warres, as all Ages teſtifie?</p>
+            </div>
+            <div n="8" type="query">
+               <head>QUERIE VIII.</head>
+               <p>Whether,
+<note place="margin">No Wars for Chriſt but Chriſtian or Spirituall.</note> although (as is expreſt) the godly in the 3 King<g ref="char:EOLhyphen"/>domes deſire a Reformation: yet ſince the Lamb of God and Prince of Peace hath not in his Teſtament given us a Pat<g ref="char:EOLhyphen"/>tern, Precept or Promiſe, for the undertaking of a civill War for his ſake; we Querie how with comfort to your Souls you may incourage the Engliſh Treaſure to be Exhauſted, and the Engliſh Blood to be ſpilt for the Cauſe of Chriſt? We rea<g ref="char:EOLhyphen"/>dily grant the Civill Magiſtrate armed by God with a civill Sword (<hi>Rom.</hi> 13.) to execute vengeance againſt Robbers,
+<note place="margin">War lawfull in civill caſes.</note> Mur<g ref="char:EOLhyphen"/>therers, Tyrants, <hi>&amp;c.</hi> Yet where it meerly concerns Chriſt, we find, when his Diſciples deſire vengeance upon Offenders, <hi>Luke</hi> 9. he meekly anſwers, <hi>You know not what ſpirit you are of, I came not to destroy Mens Lives, but to ſave them.</hi>
+                  <note place="margin">Chriſt Ieſus forbids fight<g ref="char:EOLhyphen"/>ing for his ſake.</note> If ever there were cauſe for the ſervants of Chriſt Jeſus to fight it was then, when (not his Truth, or Servants, or Ordinances, but) his own moſt holy Perſon was in danger, <hi>Math.</hi> 26. yet then, that Lamb of God checks <hi>Peter</hi> beginning to fight for him, telling him, <hi>that all that take the Sword ſhall periſh by the Sword,</hi> for with one Requeſt to his Father, he could have been reſ<g ref="char:EOLhyphen"/>cued by more then 12 Legions of Angells:
+<note place="margin">The Reaſons of it.</note> He renders the Reaſon of his unwillingneſſe to have Fighting for his ſake, which was his Fathers good pleaſure in the fullfilling of the
+<pb n="8" facs="tcp:154564:9"/>Scripture: Unto which alſo may be added, <hi>Iohn</hi> 18.36. <hi>My Kingdome is not of this world, if my Kingdome were of this world, then would my ſervants fight that I ſhould not be delivered, &amp;c.</hi>
+               </p>
+               <p>If it be ſaid his Kingdome then was not of this world, but now it is, or ſhall be: then was the hower of his Suffring, but now of his ſervants Reigning:
+<note place="margin">Chriſts ſuffe<g ref="char:EOLhyphen"/>rings to be fill'd up by his Followers.</note> we Querie, What <hi>filling up of the ſuffrings of Chriſt Paul</hi> ſpeaks of, <hi>Col.</hi> 1. when he mentioneth <hi>that which is behind of the ſufferings of Chriſt?</hi> What means that generall Rule of the Lord Jeſus <hi>Luke</hi> 9. <hi>If any man will follow me, let him take up his Croſſe or Gibbet:</hi> and that of <hi>Paul,</hi> 2 Tim. 4. <hi>all that will live godly in Christ Ieſus muſt ſuffer perſecution?</hi>
+               </p>
+               <p>We Querie (if Securitie may be taken by the Wildome of the State for civill Subjection,)
+<note place="margin">The conſciences of Idolaters not to be oppreſt by the Sword,</note> why even the Papiſts them<g ref="char:EOLhyphen"/>ſelves and their Conſciences may not be permitted in the World? For otherwiſe, if <hi>Englands</hi> Government were the Government of the whole World, not only They, but a world of Idolaters of all ſorts, yea the whole World muſt be driven out of the World?</p>
+               <p>We Querie, Whether the Common Body of Proteſtants, impenitent and unregenerate, be not further off Salvation, and lye not under a greater guilt (like <hi>Chorazin</hi> and <hi>Bethſaida</hi>) then does the body of ignorant Papiſts?
+<note place="margin">Ignorant Pa<g ref="char:EOLhyphen"/>piſts not ſuch great ſinners as knowing Proteſtants.</note> And we humbly de<g ref="char:EOLhyphen"/>ſire it may be deeply pondered what ſhould be the kindling of the Jealouſie of God, to poure forth the Blood of ſo many Thouſands of Proteſtants, by the bloody hands of the Pa<g ref="char:EOLhyphen"/>piſts (ſince moſt juſt He is and righteous in all his Judge<g ref="char:EOLhyphen"/>ments) whether or no the Lawes inacted, and Violence offred even to the Conſciences of the Papiſts themſelves, have not kindled theſe devouring flames?</p>
+               <p>'Tis true, the Propheſies are great concerning Chriſt and Antichriſt throughout the Prophets and the <hi>Kevelation,</hi> but can you ſufficiently demonſtrate theſe to the conſciences of men?
+<note place="margin">
+                     <hi>The Propheſies of</hi> Daniel <hi>and</hi> John <hi>not ſo eaſity demon<g ref="char:EOLhyphen"/>ſtrated.</hi>
+                  </note> Are you thoſe our bleſſed Prophets which can tell us <hi>how long? Pſal.</hi> 74.</p>
+               <p>Can you clear up the myſteries of <hi>Daniels</hi> 2300 dayes, <hi>Dan.</hi> 8. <hi>Daniels</hi> 7 weeks and 3 ſcore and 2 weeks, his one week, and his halfe week,
+<note place="margin">Daniels <hi>and</hi> Johns <hi>myſti<g ref="char:EOLhyphen"/>call Numbers.</hi>
+                  </note> 
+                  <hi>Dan.</hi> 9? His <hi>time, times,</hi> and <hi>half</hi> a <hi>time,</hi> his 1290 dayes, and 1335 dayes, <hi>Dan.</hi> 12?</p>
+               <p>Can you unlocke thoſe myſticall numbers of <hi>Iohns</hi> 42
+<pb n="9" facs="tcp:154564:9"/>moneths, 1260 dayes; the 3 dayes and a halfe, <hi>Rev.</hi> 11.12. the <hi>time, times,</hi> and <hi>halfe</hi> a <hi>time, Rev.</hi> 12. and the <hi>thouſand yeare, Rev.</hi> 20. with divers others, which may eſtabliſh the Judgements and Conſciences of Men, and give them Warrant whereon to venture their Souls, and ſhed their Bloods, for the preſent deſtruction of Pope and Popery (not by the breath of Chriſts mouth, and the Sword of the Spirit, but) by the breath of murthering Canons, and a flaming Sword of ſteele?</p>
+               <p>Otherwiſe, we Querie,
+<note place="margin">The wonderful ſlaughters of Papiſts and Proteſtants in the famous warres of the Waldenſians.</note> Whether the blood of ſo many hun<g ref="char:EOLhyphen"/>dreth thouſand Proteſtants, mingled with the blood of ſo many hundreth thouſand Papiſts, as was ſpilt ſome hundreth yeares in the Waldenſian warres, when all the Proteſtant par<g ref="char:EOLhyphen"/>tie that took the Sword periſhed with it, be not a warning to us their offſpring?</p>
+               <p>'Tis true, <hi>Iohn</hi> tells us of Chriſts great Battells againſt the Kings of the Earth,
+<note place="margin">The great bat<g ref="char:EOLhyphen"/>tels of Chriſt Ieſus yet to be fought.</note> againſt the Beaſt and falſe Prophet againſt <hi>Gog</hi> and <hi>Magog:</hi> but where ſpeaks he of other Ammunition and Artillerie, uſed by the Saints, but what we find in <hi>Pauls</hi> Chriſtian Magazine <hi>Epheſ.</hi> 6? Where read we of any other Horſe and Armes but thoſe all <hi>white? Rev.</hi> 19. And yet the Lamb ſhall have the Victorie over the Beaſt, and falſe Pro<g ref="char:EOLhyphen"/>phet, and over <hi>Gog</hi> and <hi>Magog</hi> in the appointed ſeaſon.
+<note place="margin">
+                     <hi>Gods children have been ſuc<g ref="char:EOLhyphen"/>ceſſefull wit<g ref="char:EOLhyphen"/>neſſes againſt the Abomina<g ref="char:EOLhyphen"/>tions</hi> &amp;c. <hi>but never did well in Church Re<g ref="char:EOLhyphen"/>formation, which their children after them diſcover, to vary from the Pattern.</hi>
+                  </note>
+               </p>
+            </div>
+            <div n="9" type="query">
+               <head>QUERIE IX.</head>
+               <p>You both profeſſe great Sufferings, <hi>&amp;c.</hi> We Querie, Whe<g ref="char:EOLhyphen"/>ther any of the Sufferings of Gods Witneſſes ſince the Apo<g ref="char:EOLhyphen"/>ſtacie, have been only right againſt the <hi>darke</hi> part, the Inventi<g ref="char:EOLhyphen"/>ons, Abominations and Uſurpations of Antichriſt, according to <hi>Rev.</hi> 11? As for the <hi>light</hi> part, who ſees not but to this day the Childrens Reformations in new changes condemn their Fathers, whoſe Zeale and Patience againſt the <hi>dark</hi> part, have hitherto exceeded the Childrens.</p>
+               <p>We Querie, Whether the finiſhing of the Teſtimonie, with the ſlaughter of the Witneſſes, and their 3 dayes and halfe laſt great oppreſſion be over and paſt, that ſo the <hi>light</hi> part may ariſe in its brightneſſe?
+<note place="margin">Martyrs, that is, Witneſſes, not peculiar to thoſe that die for Chriſt.</note> And though you commonly and on<g ref="char:EOLhyphen"/>ly call thoſe Martyrs, who loſt their lives for Jeſus: yet we alſo Querie, Whether Martyrs, that is Witneſſes, <hi>Rev.</hi> 11. be not applyable to all the ſervants of Chriſt, who Witneſſe a<g ref="char:EOLhyphen"/>gainſt any part of the Beaſts Kingdome and Tyranny, al<g ref="char:EOLhyphen"/>though
+<pb n="10" facs="tcp:154564:10"/>they never Witneſſe to the Death?</p>
+            </div>
+            <div n="10" type="query">
+               <head>QUERIE X.</head>
+               <p>Since you report your oppoſing and ſuppreſſing of Here<g ref="char:EOLhyphen"/>ſies, and glorious ſucceſſe, <hi>&amp;c.</hi> We Querie, Whether that be a demonſtrative argument from the Scriptures, for a Truth of a Church, or Government of it, ſince even the Church of <hi>Rome</hi> may boaſt of the ſame againſt many Schiſmes and He<g ref="char:EOLhyphen"/>reſies, and doth try umph with wonderfull ſucceſſe, even a<g ref="char:EOLhyphen"/>gainſt the Truth, and the Witneſſes of it, according to <hi>Daniel</hi> and <hi>Johns</hi> Propheſies? <hi>Dan.</hi> 11. <hi>Rev.</hi> 13.</p>
+               <p>Thus it pleaſed God in his Providence to turn the ſcales of Victorie (with a reliefe of their Armies) to the Idolatrous <hi>Iſraelites</hi> and <hi>Edomites</hi> againſt the <hi>Moabites,</hi>
+                  <note place="margin">God ſometimes gives great ſucceſſe of Vi<g ref="char:EOLhyphen"/>ctorie, even to Idolaters.</note> 2 <hi>Kings</hi> 3. and miraculouſly to deliver Idolatrous Apoſtate <hi>Iſrael</hi> from the mighty Armies of the <hi>Syrians,</hi> 2 <hi>Kings</hi> 7. Thus he alſo rewar<g ref="char:EOLhyphen"/>ded hypocriticall <hi>Jehn</hi> for his temporall ſervice in deſtroy<g ref="char:EOLhyphen"/>ing <hi>Ahabs</hi> houſe with a temporall Honour to the fourth ge<g ref="char:EOLhyphen"/>neration, though himſelfe and his continued in the Schiſme, Apoſtacie and Idolatry of the houſe of <hi>Iſrael.</hi>
+               </p>
+               <p>We pray you alſo to call to mind how it pleaſeth God, out of the bottomles Ocean of his Goodneſſe, <hi>to cauſe his Sun to ſhine, and his raines to fall upon the righteous and the wicked; and time and chance</hi> (ſaith <hi>Salomon) happens unto all, and one event.</hi>
+               </p>
+               <p>It pleaſed the Lord to heare the Prayers of wicked <hi>Ahab,</hi>
+                  <note place="margin">God ſometimes heares the prayers of le<g ref="char:EOLhyphen"/>gall cries of Idolaters, and the Dwells themſelves.</note> and to remit his temporall Affliction upon his temporall Humiliation.</p>
+               <p>Thus the Lord Jeſus heard the prayers of the Divels them<g ref="char:EOLhyphen"/>ſelves, <hi>Luke</hi> 8. Upon the cry of the Idolatrous Mariners God mercifully provided to anſwer their prayers, and ceaſe the Storme by the caſting out of <hi>Jonah.</hi> Thus upon the external legall Humiliation of <hi>Ninivie,</hi> it was reprieved and ſpar'd a ſeaſon; and <hi>Sodome</hi> had not been burned to aſhes, but had con<g ref="char:EOLhyphen"/>tinued untill Chriſts time, upon a ſuppoſition of their legall Humiliation, <hi>Matth.</hi> 11.</p>
+               <p>Thus although the Idolatrous <hi>Aſſirians</hi> feared <hi>Jehovah,</hi>
+                  <note place="margin">Iudgements taken off from the Aſſyrians, upon the leaſt ſhadow of Gods worſhip.</note> and ſerved their gods (2 <hi>Kings</hi> 17.) yet we hear no more of the Li<g ref="char:EOLhyphen"/>ons amongſt them when the King of <hi>Aſſyria</hi> had taken order for one of <hi>Iſraels</hi> Idolatrous Prieſts, to teach the <hi>Aſſyrians</hi> ſom<g ref="char:EOLhyphen"/>thing of the manner of Gods ſervice.</p>
+               <pb n="11" facs="tcp:154564:10"/>
+               <p>We Querie, Whether all theſe Inſtances amount to more then Evidences of the infinite Mercies, Goodneſſe and Pati<g ref="char:EOLhyphen"/>ence of God but are not proofs of their Worſhipping of God according to his Ordinance, that their Inſtitutions were from him, and their Reformations according to his Appointment?</p>
+               <p>Yea, we further Querie, Whether the <hi>power</hi> of <hi>godlineſſe,</hi> ſhi<g ref="char:EOLhyphen"/>ning forth in perſons may evidence their <hi>ſtate</hi> and <hi>Worſhip</hi> good?
+<note place="margin">The power of godlines may ſhine in ſome perſons living in great pro<g ref="char:EOLhyphen"/>phanations of Gods worſhip.</note> You both confeſſe the great <hi>profeſſion</hi> of the <hi>power</hi> of <hi>godlineſſe</hi> in <hi>England:</hi> yet we beleeve the one of you acknow<g ref="char:EOLhyphen"/>ledge the Church of <hi>England</hi> as a Nationall Church not true; and both confeſſe the Government, Governours, and the Common Prayer (the Service and Worſhip of it) to be abo<g ref="char:EOLhyphen"/>minable. Yet it is confeſt that <hi>Englands falſe</hi> National <hi>Church,</hi> with her <hi>Biſhops, Common Prayer, ceremonies &amp;c.</hi> had more <hi>evidence</hi> of the <hi>power</hi> of <hi>godlines</hi> in her Children, then was to be found amongſt the Scotch, French Dutch, who pretend a Reforma<g ref="char:EOLhyphen"/>tion purer. It ſeems therfore evident, that neither oppoſing of Hereſies, nor ſucceſſe in Victories Deliverances, nor <hi>power</hi> of <hi>godlineſſe</hi> in ſome perſons, can evidence and prove their State and Worſhip to be right and pleaſing unto God, accor<g ref="char:EOLhyphen"/>ding to his Ordinance in Chriſt Jeſus.</p>
+            </div>
+            <div n="11" type="query">
+               <head>QUERIE XI.</head>
+               <p>Since you both ſeem to magnifie the Seales of Baptiſme, and the Lords Supper, with a difference and excellency above other Ordinances, We Querie where the Lord Jeſus appoin<g ref="char:EOLhyphen"/>ted ſuch a difference and diſtinction? And whether there was not as full Communion practiſed by the firſt Chriſtians in the Word, Prayer, and Communitie, as in the breaking of Bread? <hi>Acts</hi> 2.42.</p>
+               <p>Further we Querie, ſince Baptiſme is one of thoſe Funda<g ref="char:EOLhyphen"/>mentalls, <hi>Heb.</hi> 6. and every one that will be ſaved is bound to prove his Faith and his Baptiſme true (<hi>Mark.</hi> 16.16. <hi>he that beleeveth and is baptiſed ſhall be ſaved.</hi>) We Quere, how a Bap<g ref="char:EOLhyphen"/>tiſmes or 2 Great Seals can be true in the Kingdome of <hi>Chriſt Jeſus,</hi> any more then 2 Great Seales can be true in the King<g ref="char:EOLhyphen"/>dome of <hi>England?</hi> And whether a Chriſtian Commiſſion, Pattent, Pardon, Writ, can be truly ſeal'd (as is maintained) from <hi>Rome,</hi> any more then a civill Commiſſion, Pattent, Par<g ref="char:EOLhyphen"/>don or Writ can be truly Sealed at <hi>Oxford?</hi>
+               </p>
+               <pb n="12" facs="tcp:154564:11"/>
+               <p>To inſiſt upon a late inſtance: ſince the Biſhops power and Calling is condemned as Antichriſtian, how can we evidence the Seale of Baptiſme true, which we have received from them?</p>
+               <p>Furthermore, ſince a true Baptiſme giveth Right to all the Ordinances of Chriſt Jeſus, we Querie, how any Proteſtant or Papiſt, whoſe Baptiſme you acknowledge to be true, can be denied Communion in the Supper alſo, according to 1 <hi>Cor.</hi> 12.12. <hi>By one ſpirit are we all baptized into one body,</hi> and conſe<g ref="char:EOLhyphen"/>quently into the participation of the Ordinances therof: and if ſo, we Querie how farre off <hi>Rome</hi> and the Pope himſelfe is from our boſomes?</p>
+            </div>
+            <div n="12" type="query">
+               <head>QUERIE XII.</head>
+               <p>Since you both profeſſe to want more Light, and that a greater Light is yet to be expected; yea, that the Church of <hi>Scotland</hi> may yet have need of a greater Reformation, <hi>&amp;c.</hi> we Querie, how you can profeſſe and Sweare to Perſecute all o<g ref="char:EOLhyphen"/>thers as Schiſmatiques, Hereticks, <hi>&amp;c.</hi> that beleeve they ſee a further Light, and dare not joyn with either of your Chur<g ref="char:EOLhyphen"/>ches? Whether the Lambes Wife have received any ſuch Commiſſion or Diſpoſition from the Lamb her Husband, ſo to practiſe? Whether (as King JAMES once wrote upon Re. 20.) it be not a true mark and character of a falſe Church to Perſecute? It being the nature only of a Wolf to hunt the Lambs and Sheep, but impoſſible for a Lamb or Sheep, or a thouſand Flocks of Sheep to perſecute one Wolfe: we ſpeak of ſpirituall Sheep and ſpirituall Wolves: for other VVolves againſt the Civil State, VVe profeſſe it to be the Dutie of the Civill State to perſecute and ſuppreſſe them.</p>
+               <p>And laſtly, whether the States of <hi>Holland</hi> who tollerate, though not owne (as you ſay) the ſeveral Sects amongſt them which differ from them,
+<note place="margin">
+                     <hi>The States of</hi> Holland <hi>in permitting o<g ref="char:EOLhyphen"/>ther conſcien<g ref="char:EOLhyphen"/>ces, obey the Command of Chriſt of per<g ref="char:EOLhyphen"/>mitting the Tares.</hi>
+                  </note> &amp; are of another <hi>conſcience</hi> &amp; <hi>woriſhp,</hi> whether or no they com not neerer the <hi>holy Pattern</hi> &amp; <hi>comma<g ref="char:cmbAbbrStroke">̄</g>d</hi> of the Lord Jeſus, to permit the <hi>tares</hi> to have a civill being in the <hi>field</hi> of the <hi>world,</hi> untill the <hi>harvest</hi> the end of it. <hi>Mat.</hi> 13?</p>
+               <p>VVhether thoſe <hi>tares</hi> can poſſibly be taken for Hipocrites in the Church, or Scandalous perſons in the Common weal, but are moſt properly falſe <hi>worſhippers,</hi> and in eſpeciall, and punctually intended by the Lord Jeſus Antichriſtians, the
+<pb n="13" facs="tcp:154564:11"/>Children <hi>of the wicked one,</hi> oppoſite to the true Chriſtians, the Children <hi>of the Kingdome?</hi>
+               </p>
+               <p>VVhether for this very Truth which thoſe States profeſſe,
+<note place="margin">Noctate for the time bath been bleſt by God as that to admiration.</note> beyond either <hi>England</hi> or <hi>Scotland,</hi> it hath not pleaſed the <hi>Lord</hi> to proſper the State, above any other State in the word, for the time, ſince ſuch their wiſe Permiſſion? Whether there can poſſibly be expected the leaſt look of Peace, in theſe fatall Diſtractions and Tempeſts raiſed, but by taking Councel of the great and wiſeſt Polititian that ever was, the Lord Jeſus Chriſt, in this particular?</p>
+               <p>VVe know the Allegations againſt this Councell: the head of all is that from <hi>Moſes</hi> (not Chriſt) his Pattern in the typi<g ref="char:EOLhyphen"/>call Land of <hi>Canaan,</hi> the Kings of <hi>Iſrael</hi> and <hi>Iudah,</hi> &amp;c.
+<note place="margin">
+                     <hi>The danger and miſchiefe of bringing</hi> Moſes <hi>his Pattern into Kingdomes now ſince Chriſt Ieſus his comming.</hi>
+                  </note> We humbly deſire it may be ſearched into, &amp; we beleeve it wilbe found but one of <hi>Moſes</hi> ſhadows, vaniſhed at the comming of the Lord Jeſus: yet ſuch a ſhadow as is directly oppoſite to the very Teſtament and coming of the Lord Jeſus. Oppoſite to the very nature of a Chriſtian Church, the only <hi>holy Nati<g ref="char:EOLhyphen"/>on</hi> and <hi>Iſrael of God.</hi> Oppoſite to the very tender Bowels of Humanity, (how much more of Chriſtianity?) abhorring to poure out the blood of Men meerly for their Soules beliefe and worſhip. Oppoſite to the very Eſſentialls and Funda<g ref="char:EOLhyphen"/>mentalls of the Nature of a Civill Magiſtracie, a Civil <hi>Com<g ref="char:EOLhyphen"/>mon-weal</hi> or <hi>combination</hi> of Men, which can only reſpect <hi>civill</hi> things. Oppoſite to the Jewes Converſion to Chriſt, by not permitting them a civill life or being. Oppoſite to the civill Peace, and the lives of Millions, ſlaughter'd upon this ground, in mutuall perſecuting each others Conſcience, eſpecially the Proteſtant and the Papiſt. Oppoſite to the Souls of all Men, who by perſecutions are raviſhed into a diſſembled Worſhip, which their Hearts imbrace not.</p>
+               <p>Oppoſite to the beſt of Gods ſervants, who in all Popiſh and Proteſtant States, have been commonly eſteemed and per<g ref="char:EOLhyphen"/>ſecuted, as the only Schiſmaticks, Hereticks, <hi>&amp;c.</hi> Oppoſite to that Light of Scripture which is expected yet to ſhine, which muſt by that Doctrine be ſuppreſt as a new or old Hereſie or Noveltie. All this in all Ages experience teſtifies, which ne<g ref="char:EOLhyphen"/>ver ſaw any long liv'd Fruit of Peace or Righteouſneſſe to grow upon that fatall Tree.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>Pag 6. line 13. <hi>dele Peter.</hi> p. 9. l. 12. r. yeares ſince. l. 26 r. have not been.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
